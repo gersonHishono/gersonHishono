@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gerson 👋</h1>
+<h1 align="center">Hi, I'm Gerson </h1>
 
 <p align="center">
 Software Developer | Java • SQL • Web Development
