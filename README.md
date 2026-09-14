@@ -3,12 +3,6 @@
 <p align="center">
   <strong>Software Developer • Problem Solver • Tech Enthusiast</strong>
 </p>
-
-<p align="center">
-  <a href="https://github.com/gersonHishono">
-    <img src="https://img.shields.io/github/followers/gersonHishono?label=Followers&style=flat-square" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=gersonHishono&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
