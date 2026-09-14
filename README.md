@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Gerson </h1>
+<h1 align="center">Gerson Hishono </h1>
 
 <p align="center">
   <strong>Software Developer • Problem Solver • Tech Enthusiast</strong>
